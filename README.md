@@ -45,8 +45,8 @@ sns.histplot(data = visual_df,
              cbar_kws=dict(shrink=.75),
              ax = axes[1,1]);
 
-
 plt.tight_layout(pad = 2);
+
 <img width="712" alt="Screenshot 2024-02-08 at 4 59 33 PM" src="https://github.com/dajo09/MachineLearningWithPyhton-ZeroToGBMs/assets/33592524/286aa1f5-6ec5-424d-897d-423421dc5466">
 
 [view my notebook on jovian.com](https://jovian.com/dajo09/zerotogbms-course-project)
